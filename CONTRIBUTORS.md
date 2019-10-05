@@ -8,3 +8,7 @@
 - Bio: Java, Linux, Networking is Life | :pizza: is love
 - GitHub: [surbhitawasthi](https://github.com/surbhitawasthi)
 
+#### Name: [Rohit Raj Anand](https://github.com/rht6226)
+- Place: Muzaffarpur, Bihar, India
+- Bio: Always a padawan, never a jedi!
+- GitHub: [rht6226](https://github.com/rht6226)
