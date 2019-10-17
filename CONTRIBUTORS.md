@@ -8,3 +8,8 @@
 - Bio: Java, Linux, Networking is Life | :pizza: is love
 - GitHub: [surbhitawasthi](https://github.com/surbhitawasthi)
 
+#### Name: [Madhup Prakash](https://github.com/coderdoze)
+- Place: Prayagraj, Uttar Pradesh, India
+- Bio: Take a chill pill man.
+- GitHub: [coderdoze](https://github.com/coderdoze)
+
