@@ -3,13 +3,26 @@
 - Bio: Developer, Programmer and Open Source Lover. :zap: :octocat:
 - Github: [Abhishek1103](https://github.com/Abhishek1103)
 
-#### Name: [Surbhit Awasthi](https://github.com/surbhitawasthi)
+### Name: [Surbhit Awasthi](https://github.com/surbhitawasthi)
 - Place: Lucknow, Uttar Pradesh, India
 - Bio: Java, Linux, Networking is Life | :pizza: is love
 - GitHub: [surbhitawasthi](https://github.com/surbhitawasthi)
+
 
 #### Name: [Madhup Prakash](https://github.com/coderdoze)
 - Place: Prayagraj, Uttar Pradesh, India
 - Bio: Take a chill pill man.
 - GitHub: [coderdoze](https://github.com/coderdoze)
+
+
+#### Name: [Siddhartha Dwivedi](https://github.com/siddharthad2212)
+- Place: Kanpur, Uttar Pradesh, India
+- Bio: Python, Machine Learning (To be researcher :|)
+- GitHub: [siddharthad2212](https://github.com/siddharthad2212)
+
+
+### Name: [Rohit Raj Anand](https://github.com/rht6226)
+- Place: Muzaffarpur, Bihar, India
+- Bio: Always a padawan, never a jedi!
+- GitHub: [rht6226](https://github.com/rht6226)
 
