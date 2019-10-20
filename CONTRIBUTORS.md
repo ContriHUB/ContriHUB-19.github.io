@@ -8,3 +8,8 @@
 - Bio: Java, Linux, Networking is Life | :pizza: is love
 - GitHub: [surbhitawasthi](https://github.com/surbhitawasthi)
 
+#### Name: [Siddhartha Dwivedi](https://github.com/siddharthad2212)
+- Place: Kanpur, Uttar Pradesh, India
+- Bio: Python, Machine Learning (To be researcher :|)
+- GitHub: [siddharthad2212](https://github.com/siddharthad2212)
+
